@@ -19,6 +19,8 @@ I have been developing software since 2008. I have worked especially Java, Sprin
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" width="36" height="36" alt="Spring Boot" /></a>
 <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/9143253/47912437-f749bc00-de98-11e8-9669-e97f58b8be2e.png" width="36" height="36" alt="Elasticsearch" /></a>
 <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-1024.png" width="36" height="36" alt="Redis" /></a>
+<a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/148px-Apache_kafka.svg.png" width="24" height="36" alt="Apache Kafka" />
+</a>
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
